@@ -9,7 +9,7 @@ This project uses OpenCV to detect various objects like people, books, phones, T
 - OpenCV (`pip install opencv-python`)
 - Other dependencies (list them here)
 
-## Usage:
+## Usage: 
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Run the script: `python object_detection.py`.
