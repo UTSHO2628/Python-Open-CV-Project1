@@ -2,7 +2,7 @@
 
 # Python Object Detection with OpenCV
 
-This project uses OpenCV to detect various objects like people, books, phones, TV, pens, and more via the camera
+This project uses OpenCV to detect various objects like people, books, phones, TV, pens, and more via the camera.
 
 ## Requirements:
 - Python 3.0
