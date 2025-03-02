@@ -5,7 +5,7 @@
 This project uses OpenCV to detect various objects like people, books, phones, TV, pens, and more via the camera.
 
 ## Requirements:
-- Python 3.0
+- Python 3.0 
 - OpenCV (`pip install opencv-python`)
 - Other dependencies (list them here) 
 
