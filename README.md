@@ -1,6 +1,6 @@
 # Realtime object detection with OpenCV 
 
-# Python Object Detection with OpenCV
+ # Python Object Detection with OpenCV
 
 This project uses OpenCV to detect various objects like people, books, phones, TV, pens, and more via the camera.
 
