@@ -1,4 +1,4 @@
- # Real-time object detection with OpenCV 
+  # Real-time object detection with OpenCV 
 
 # Python Object Detection with OpenCV
 
