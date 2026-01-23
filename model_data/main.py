@@ -14,5 +14,5 @@ def main():
     print("Starting object detection using webcam...")
     detector.onVideo()
 
-if __name__ == "__main__":
+ if __name__ == "__main__":
     main()
