@@ -1,4 +1,4 @@
-from Detector import Detector
+ from Detector import Detector
 import os
 
 def main():
