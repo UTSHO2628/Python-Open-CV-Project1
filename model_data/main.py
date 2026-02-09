@@ -10,7 +10,7 @@ def main():
     # Create Detector object
     detector = Detector(None, configPath, modelPath, classesPath)
     
-    # Use the camera for detection
+    # Use the camera for detection.
     print("Starting object detection using webcam...")
     detector.onVideo()
 
